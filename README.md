@@ -139,7 +139,7 @@ I'm a software developer with a passion for programming and learning new things.
     <!--CAD & 3D Printing-->
     <h3>CAD & 3D Printing</h3>
     <a href="https://www.autodesk.it/products/fusion-360/" target="_blank" rel="noreferrer">
-        <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/lockup-610x66/fusion-white-lockup-610x66.png" alt="fusion360" width="40" height="40"/>
+        <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/fusion-360-badge-75x75.png" alt="fusion360" width="40" height="40"/>
     </a>
 </div>
 
