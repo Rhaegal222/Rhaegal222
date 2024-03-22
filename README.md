@@ -72,7 +72,11 @@ I'm a software developer with a passion for programming and learning new things.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhaegal222&show_icons=true&theme=kacho_ga" />
 </a>
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegal222&layout=compact&theme=kacho_ga" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhaegal222&theme=kacho_ga" />
+</a>
+<br>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegal222&layout=compact&theme=kacho_ga" />
 </a>
 
 <div align="left">
