@@ -122,6 +122,9 @@ I'm a software developer with a passion for programming and learning new things.
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
     <!-- IDEs and Editors -->
     <h3>IDEs and Editors</h3>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -133,13 +136,16 @@ I'm a software developer with a passion for programming and learning new things.
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
     </a>
-    <!-- Development Tools and VCS -->
-    <h3>Development Tools and VCS</h3>
+    <!-- Development Tools-->
+    <h3>Development Tools</h3>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>    
     </a>
     <!--CAD & 3D Printing-->
     <h3>CAD & 3D Printing</h3>
