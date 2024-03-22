@@ -127,7 +127,26 @@ I'm a software developer with a passion for programming and learning new things.
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
-    <a href="https://postman.com" target="_blank"
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+    </a>
+    <!--CAD & 3D Printing-->
+    <h3>CAD & 3D Printing</h3>
+    <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/autodesk_autodesk/autodesk_autodesk-icon.svg" alt="fusion360" width="40" height="40"/>
+    </a>
+    <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ultimaker/ultimaker-icon.svg" alt="cura" width="40" height="40"/>
+    </a>
+    <a href="https://reprap.org/wiki/G-code" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gcode/gcode-icon.svg" alt="gcode" width="40" height="40"/>
+    </a>
 </div>
 
 <!--
