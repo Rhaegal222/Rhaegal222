@@ -138,14 +138,8 @@ I'm a software developer with a passion for programming and learning new things.
     </a>
     <!--CAD & 3D Printing-->
     <h3>CAD & 3D Printing</h3>
-    <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/autodesk_autodesk/autodesk_autodesk-icon.svg" alt="fusion360" width="40" height="40"/>
-    </a>
-    <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ultimaker/ultimaker-icon.svg" alt="cura" width="40" height="40"/>
-    </a>
-    <a href="https://reprap.org/wiki/G-code" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gcode/gcode-icon.svg" alt="gcode" width="40" height="40"/>
+    <a href="https://www.autodesk.it/products/fusion-360/" target="_blank" rel="noreferrer">
+        <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/lockup-610x66/fusion-white-lockup-610x66.png" alt="fusion360" width="40" height="40"/>
     </a>
 </div>
 
