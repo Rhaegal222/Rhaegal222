@@ -68,8 +68,12 @@ I'm a software developer with a passion for programming and learning new things.
 <!-- API Github-->
 ### 📊 GitHub Stats
 
-![Rhaegal222's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaegal222&show_icons=true&theme=kacho_ga)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegal222&layout=compact&theme=kacho_ga)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhaegal222&show_icons=true&theme=kacho_ga" />
+</a>
+<a href="#">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegal222&layout=compact&theme=kacho_ga" />
+</a>
 
 <div align="left">
     <!-- Programming and Scripting Languages -->
