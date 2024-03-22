@@ -65,11 +65,17 @@ I'm a software developer with a passion for programming and learning new things.
 - Physics
 -->
 
+<!-- API Github-->
+### 📊 GitHub Stats
+
+![Rhaegal222's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaegal222&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegal222&layout=compact&theme=radical)
+
 ### Languages and Tools
 
 <div align="left">
     <!-- Programming and Scripting Languages -->
-    <h3>Linguaggi di Programmazione e Scripting</h3>
+    <h3>Programming and Scripting Languages</h3>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -98,7 +104,7 @@ I'm a software developer with a passion for programming and learning new things.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
     <!-- Frameworks and Libraries -->
-    <h3>Framework e Librerie</h3>
+    <h3>Frameworks and Libraries</h3>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     </a>
@@ -106,7 +112,7 @@ I'm a software developer with a passion for programming and learning new things.
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
     </a>
     <!-- Database Technologies -->
-    <h3>Database</h3>
+    <h3>Database Technologies</h3>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
@@ -117,18 +123,12 @@ I'm a software developer with a passion for programming and learning new things.
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
     <!-- Development Tools and VCS -->
-    <h3>Strumenti di Sviluppo e VCS</h3>
+    <h3>Development Tools and VCS</h3>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
     <a href="https://postman.com" target="_blank"
 </div>
-
-<!-- API Github-->
-### 📊 GitHub Stats
-
-![Rhaegal222's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaegal222&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegal222&layout=compact&theme=radical)
 
 <!--
 **Rhaegal222/Rhaegal222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
