@@ -68,7 +68,7 @@ I'm a software developer with a passion for programming and learning new things.
 <!-- API Github-->
 ### 📊 GitHub Stats
 
-<div style="max-width: 500px">
+<div align="center" style="max-width: 500px;>
     <a href="#">
     <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Rhaegal222&show_icons=true&theme=kacho_ga" />
     </a>
