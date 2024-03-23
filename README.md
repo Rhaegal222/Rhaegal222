@@ -66,7 +66,7 @@ I'm a software developer with a passion for programming and learning new things.
 -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="flex: 1; max-width: 50%; padding-right: 20px;">
+    <div style="flex: 1; max-width: 100%; padding-right: 20px;">
         <div><h3>📊 GitHub Stats</h3></div>
         <div style="min-width: 300px; max-height: 600px; overflow-y: hidden; align-items: center;">
             <a href="#">
