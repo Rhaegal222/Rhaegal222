@@ -66,21 +66,21 @@ I'm a software developer with a passion for programming and learning new things.
 -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="flex: 1; padding-right: 20px;">
+    <div style="flex: 1; width: 50%; padding-right: 20px; ">
         <div><h3>📊 GitHub Stats</h3></div>
-        <div style="min-width: 300px; max-height: 600px; overflow-y: hidden; align-items: center;">
+        <div style="min-width: 300px; max-height: 600px; overflow-y: auto; align-items: center;">
             <a href="#">
-            <img align="center" style="width: 80%; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=Rhaegal222&show_icons=true&theme=kacho_ga" />
+            <img style="width: 80%; margin-bottom: 10px; max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Rhaegal222&show_icons=true&theme=kacho_ga" />
             </a>
             <a href="#">
-            <img align="center" style="width: 80%; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegal222&layout=compact&theme=kacho_ga" />
+            <img style="width: 80%; margin-bottom: 10px; max-height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaegal222&layout=compact&theme=kacho_ga" />
             </a>
             <a href="#">
-            <img align="center" style="width: 80%; margin-bottom: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhaegal222&theme=kacho_ga" />
+            <img style="width: 80%; margin-bottom: 10px; max-height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhaegal222&theme=kacho_ga" />
             </a>
         </div>
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 1; width: 50%;">
         <div><h3>📚 My Skills</h3></div>
         <div style="min-width: 300px; max-height: 600px; overflow-y: auto;">
             <!-- Programming and Scripting Languages -->
