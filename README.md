@@ -94,6 +94,9 @@ I'm a software developer with a passion for programming and learning new things.
             <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
             </a>
+            <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+            </a>
             <a href="https://www.java.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
             </a>
@@ -187,14 +190,17 @@ I'm a software developer with a passion for programming and learning new things.
             </a>
             <!-- Development Tools -->
             <h4>🛠️ Development Tools</h4>
-            <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-                <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
             </a>
             <a href="https://github.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
             </a>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+            <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+                <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/>
+            </a>
+            <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="Jetpack Compose" width="40" height="40"/>
             </a>
             <a href="https://postman.com" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
@@ -213,6 +219,7 @@ I'm a software developer with a passion for programming and learning new things.
         </div>
     </div>
 </div>
+
 
 
 <!--
