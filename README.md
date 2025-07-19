@@ -117,9 +117,6 @@ I'm a software developer with a passion for programming and learning new things.
             <a href="https://angular.io" target="_blank" rel="noreferrer">
                 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
             </a>
-            <a href="https://angularjs.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40" height="40"/>
-            </a>
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
             </a>
