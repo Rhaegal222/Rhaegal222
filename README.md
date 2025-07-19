@@ -132,6 +132,15 @@ I'm a software developer with a passion for programming and learning new things.
             <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
             </a>
+            <a href="https://dart.dev" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+            </a>
+            <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+            </a>
+            <a href="https://svelte.dev" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
+            </a>
             <!-- Backend Development -->
             <h4>🔗 Backend Development</h4>
             <a href="https://laravel.com" target="_blank" rel="noreferrer">
